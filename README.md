@@ -18,7 +18,7 @@ An autoencoder has two main parts:
 AutoEncoder can be seen Mathematically as this :
 
 <div align="center" >
-<img src="resources/AutoEncoder_Representation.jpg" width="500" height="300">
+<img src="resources/AutoEncoder_Representation.JPG" width="500" height="300">
 </div>
 
 The Goal of AutoEncoder is to Optimize the The Difference Between The Original Data x (input data) and the Reconstructed Data x_p (output data) Using a loss Function defined as bellow :
