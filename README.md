@@ -29,7 +29,7 @@ The Goal of The AutoEncoder is to Optimize the The Difference Between The Origin
 
 ## Implementation :
 
-1. AutoEncoder Using Keras on Mnist DataSet .
+**I. AutoEncoder Using Keras on Mnist DataSet .**
 
 Our AutoEncoder Architecture can be seen as bellow :
 
@@ -138,7 +138,7 @@ Our AutoEncoder gives us this Result :
 <img src="resources/AutoEncoder_decoded_data.png" width="500" height="100">
 </div>
 
-2. Convolution AutoEncoder Using Keras on Mnist DataSet .
+**II. Convolution AutoEncoder Using Keras on Mnist DataSet .**
 
 Our Convolution AutoEncoder Architecture can be seen as bellow :
 
@@ -229,3 +229,5 @@ Our Convolution AutoEncoder gives us this Result :
 <div align="center" >
 <img src="resources/Conv_AutoEncoder_result.JPG" width="500" height="300">
 </div>
+
+
