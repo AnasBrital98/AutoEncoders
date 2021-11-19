@@ -466,3 +466,9 @@ Our AutoEncoder gives us this Result :
 <div align="center" >
 <img src="resources/Conv_AutoEncoder_PyTorch_result.JPG" width="500" height="300">
 </div>
+
+## References :
+
+* [Autoencoder By Wikipedia](https://en.wikipedia.org/wiki/Autoencoder)
+* [Pytorch Documentation](https://pytorch.org/)
+* [keras Documentation](https://keras.io/)
