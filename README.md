@@ -468,7 +468,7 @@ Our AutoEncoder gives us this Result :
 </div>
 
 ## References :
-
+* [Reducing the dimensionality of data with neural networks By Geoffrey Hinton](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.459.3788&rep=rep1&type=pdf)
 * [Autoencoder By Wikipedia](https://en.wikipedia.org/wiki/Autoencoder)
 * [Pytorch Documentation](https://pytorch.org/)
 * [keras Documentation](https://keras.io/)
