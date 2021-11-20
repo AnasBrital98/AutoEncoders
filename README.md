@@ -31,7 +31,7 @@ The Goal of The AutoEncoder is to Optimize the The Difference Between The Origin
 
 **I. AutoEncoder Using Keras on Mnist DataSet .**
 
-Our AutoEncoder Architecture can be seen as bellow :
+Our AutoEncoder Architecture can be seen as below :
 
 <div align="center" >
 <img src="resources/Architecture.svg" width="800" height="400">
@@ -140,14 +140,14 @@ Our AutoEncoder gives us this Result :
 
 **II. Convolution AutoEncoder Using Keras on Mnist DataSet .**
 
-Our Convolution AutoEncoder Architecture can be seen as bellow :
+Our Convolution AutoEncoder Architecture can be seen as below :
 
 
 <div align="center" >
 <img src="resources/Conv_AutoEncoder.svg" width="800" height="300">
 </div>
 
-The Code Is Represented as bellow :
+The Code Is Represented as below :
 
 ```python
 import matplotlib.pyplot as plt
@@ -232,13 +232,13 @@ Our Convolution AutoEncoder gives us this Result :
 
 **III. AutoEncoder Using PyTorch on Mnist DataSet .**
 
-Our AutoEncoder Architecture can be seen as bellow :
+Our AutoEncoder Architecture can be seen as below :
 
 <div align="center" >
 <img src="resources/Architecture.svg" width="800" height="400">
 </div>
 
-The Code is represented as bellow :
+The Code is represented as below :
 
 ```python
 import torch
@@ -358,7 +358,7 @@ Our Convolution AutoEncoder Architecture can be seen as bellow :
 <img src="resources/Conv_PyTorch_Architecture.svg" width="800" height="300">
 </div>
 
-The Code is represented as bellow :
+The Code is represented as below :
 
 ```python
 import torch
